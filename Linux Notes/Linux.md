@@ -1,5 +1,9 @@
-#### Networking
-- [[iwctl]]   
-- [[Network manager]]
+[[Networking]]
+[[Mount]]
+[[Font]]
+[[Tools]]
+[[Applications]]
+[[Misc]]
+[[Tips]]
 
 
