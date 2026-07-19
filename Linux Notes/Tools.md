@@ -1,2 +1,2 @@
 Screen Capture
-	[[flameshot]]
+	[[Flameshot]]

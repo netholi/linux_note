@@ -3,10 +3,12 @@
 [[Mount]]
 [[Font]]
 [[Tools]]
-[[Applications]]
-[[Misc]]
+[[Utility]]
+[[Hardware related]]
 [[Tips]]
 [[Game]]
+[[Applications]]
+[[Hardware info]]
 
 
 
