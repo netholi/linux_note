@@ -79,6 +79,7 @@ sudo apt install stow
 ```
 
 ---
+
 >[!important] ripgrep
 (invoked as `rg`) is a lightning-fast, line-oriented CLI search tool that recursively scans directories for regular expression patterns. Built in Rust, it serves as a highly performant, modern alternative to standard `grep`
 
@@ -90,6 +91,7 @@ sudo apt install stow
 rsync --info=progress2 --remove-source-files *.webm  /mnt/media/malayalam/
 
 ---
+
 >[!important] wormhole
 >**Magic Wormhole** is a secure, command-line utility for Linux that allows you to easily transfer files, directories, or text snippets between two computers using short, human-readable codes.
 
@@ -132,6 +134,7 @@ wormhole receive
 
 >[!important] tailscale
 >Tailscale on Linux is a **zero-configuration VPN** powered by the **WireGuard** protocol that securely connects all your Linux devices, servers, and cloud instances into a private peer-to-peer mesh network. It assigns static private IP addresses to your machines and bypasses the need for open router ports or complex firewall rules.
+[[send files using tailscale]]
 
 ---
 
@@ -153,4 +156,10 @@ wormhole receive
 >[!important]  fastfetch
 >Fastfetch is a blazing-fast, highly configurable command-line tool that displays your system's hardware and software information in a neat, visually appealing layout== (complete with your operating system's logo). It serves as a modern, performance-oriented replacement for the discontinued _Neofetch_.
 
+---
+>[!important] Sipcalc 
+> is a command-line IP subnet calculator that supports both IPv4 and IPv6. It provides detailed networking information—such as network ranges, broadcast addresses, and wildcard masks—and allows you to easily split networks based on smaller netmasks.
+``` bash
+sipcalc 192.168.18.15/24
+```
 ---
