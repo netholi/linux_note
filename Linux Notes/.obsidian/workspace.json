@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux.md",
+                "file": "fd - example.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Linux"
+              "title": "fd - example"
             }
           },
           {
@@ -28,30 +28,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware info.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hardware info"
-            }
-          },
-          {
-            "id": "906d078f7c89a6fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dmidecode_options.md",
+                "file": "Tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dmidecode_options"
+              "title": "Tips"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "misc",
+                "query": "nmap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,6 +103,16 @@
         "id": "fd1942a454c92703",
         "type": "tabs",
         "children": [
+          {
+            "id": "70742523d7ec3563",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
           {
             "id": "ea0ecc642cc53027",
             "type": "leaf",
@@ -205,8 +200,7 @@
               "title": "Outline of Hardware info"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "af948d3519a5f525",
@@ -243,20 +237,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "6945bbc514077677",
+  "active": "de2b2d8ca65961af",
   "lastOpenFiles": [
+    "termux.md",
+    "Linux.md",
+    "sed.md",
+    "Tips.md",
+    "format.md",
+    "Base-1.base",
+    "Disk.md",
     "Hardware related.md",
-    "dmidecode_options.md",
-    "Hardware info.md",
-    "Options lshw.md",
     "Screen.md",
+    "Hardware info.md",
+    "iwctl.md",
     "Networking.md",
     "Network manager.md",
-    "Applications.md",
-    "Linux.md",
-    "Disk.md",
-    "yazi.md",
+    "Untitled.base",
+    "dmidecode_options.md",
+    "RegEx.md",
     "Utility.md",
+    "fd - example.md",
+    "Options lshw.md",
+    "Applications.md",
+    "yazi.md",
     "Managing file permissions and ownership.md",
     "Send files using tailscale.md",
     "Commands.md",
@@ -264,13 +267,6 @@
     "Super User Privileges.md",
     "Game.md",
     "Font.md",
-    "Attachments",
-    "section.md",
-    "format.md",
-    "Managing users.md",
-    "Managing Groups.md",
-    "Mount.md",
-    "Tips.md",
-    "Tools.md"
+    "Attachments"
   ]
 }

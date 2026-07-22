@@ -1,3 +1,7 @@
+---
+category: Networking
+---
+
 - [[iwctl]]   
 - [[Network manager]]
 

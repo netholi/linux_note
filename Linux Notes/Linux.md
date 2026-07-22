@@ -1,3 +1,4 @@
+
 [[Commands]]
 [[Networking]]
 [[Mount]]
@@ -10,5 +11,6 @@
 [[Applications]]
 [[Hardware info]]
 
+[[RegEx]]
 
-
+[[termux]]

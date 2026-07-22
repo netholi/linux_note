@@ -1,0 +1,24 @@
+views:
+  - type: table
+    name: Networking
+    filters:
+      and:
+        - Category == "Networking"
+    order:
+      - file.name
+      - Category
+      - file.backlinks
+      - file.links
+    sort:
+      - property: category
+        direction: DESC
+  - type: table
+    name: Hardware
+    filters:
+      and:
+        - category == "Hardware"
+    order:
+      - file.name
+      - category
+      - file.backlinks
+      - file.links

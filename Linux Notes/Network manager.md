@@ -1,3 +1,7 @@
+---
+category: Networking
+---
+
 >[!note] 
 >Most common on **Ubuntu, Fedora, GNOME, KDE, etc.**
 >**nmcli** - command-line tool for controlling Network Manager

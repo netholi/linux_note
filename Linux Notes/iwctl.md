@@ -1,6 +1,5 @@
 ---
-title: iwctl
-created: 2026-07-18
+category: Networking
 ---
 #### 🔸 **iwd**  * (iNet wireless daemon)*
 >[!note] Note

@@ -57,7 +57,13 @@ apt Install fd-find 
 > *(the command to use is fdfind)*
 > *and alias it to fd="fdfind" in .bashrc*`
 
+ #find
+
+>[!tip]- [[fd - example]]
+![[fd - example]]
+ 
 ---
+
 >[!important] wezterm terminal
 >WezTerm is a powerful cross-platform terminal emulator and multiplexer. _Runs on Linux_, macOS, Windows 10, FreeBSD and NetBSD
 
@@ -99,7 +105,7 @@ rsync --info=progress2 --remove-source-files *.webm  /mnt/media/malayalam/
 - **Fedora / RHEL**: `sudo dnf install magic-wormhole`
 - **openSUSE**: `sudo zypper install python-magic-wormhole`
 - **Universal Snap Package**: `sudo snap install wormhole`
-   #distro-package-installer #installer #package-installer
+   #installer 
 >[!Example]
 To send file
 ``` bash

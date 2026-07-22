@@ -1,3 +1,8 @@
+---
+category: Hardware
+---
+
+
 >[!info] lshw (List Hardware) 
 >command** in Linux is a powerful command-line utility used to extract **detailed information about the system's hardware configuration.
 ``` bash

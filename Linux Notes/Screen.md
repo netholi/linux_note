@@ -1,3 +1,10 @@
+---
+category: Hardware
+---
+
+
+
+
 >[!Info] Adjust brightness
 ``` bash
 sudo apt install brightnessctl

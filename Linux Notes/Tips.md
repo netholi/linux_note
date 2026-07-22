@@ -22,3 +22,9 @@ find . -maxdepth 1 -type f -exec mv -t set2/ -- {} +
 ```
 
 ---
+>[!tip] Double width colon
+>echo -e '\uFF1A'
+
+``` bash
+echo -e '\uFF1A'
+```
